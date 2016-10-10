@@ -1,6 +1,6 @@
 ## Moore Early Career Researcher Symposium
 
-_Hawaii, January 2017_
+_Waikoloa Beach, Hawaii (Big Island), January 17-21, 2017_
 
 ### Pages
 
@@ -12,11 +12,11 @@ _Hawaii, January 2017_
 
 ### Basics
 
-**Who:** About 50 early career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org), members of DDD Investigators' labs, and researchers affiliated with one of our "Practices" grants (Jupyter, Julia Language, or Data Carpentry). A list of confirmed attendees is available [here](https://github.com/DDD-Moore/early-career-hawaii/blob/master/attendees.md).
+**Who:** About 50 early career researchers funded by the Moore DDD Initiative. This includes researchers at the three [Moore-Sloan Data Science Environments](http://msdse.org), members of DDD Investigators' labs, and researchers affiliated with one of our "Practices" grants (Jupyter, Julia Language, Data Carpentry, Numba, Dask, nteract). A list of confirmed attendees is available [here](https://github.com/DDD-Moore/early-career-hawaii/blob/master/attendees.md).
 
 **Why:** We want to assemble a group of smart, driven individuals at the earlier stages of your careers to meet each other, learn from one another, and potentially work together now or in the future. We are interested in fostering a cohort of data science researchers that will hopefully persist well beyond the bounds of the meeting. 
 
-We want your help in crafting the event! The agenda will include a few interesting speakers, a panel or two on subjects relevant to the broader group, copious breaks and opportunities for informal interactions, a lot of talk about science, methods, and data, and plenty of time to enjoy the ambiance of Puerto Rico.
+We want your help in crafting the event! The agenda will include a few interesting speakers, a panel or two on subjects relevant to the broader group, copious breaks and opportunities for informal interactions, a lot of talk about science, methods, and data, and plenty of time to enjoy the ambiance of Hawaii.
 
 We will be co-located with early career researchers from labs funded by the [Moore Marine Microbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative). We will be interacting informally with their group on Tuesday and Thursday (e.g., meals, activities) and more formally on Wednesday. Details to follow.
 
