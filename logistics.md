@@ -1,19 +1,19 @@
 ### Time & Place
 
-**When:** January X - Y, 2016 (plan for 1 travel day on either side)
+**When:** January 18 - 20, 2017 (Plan for one day of travel on either side) 
 
-**Where:** The Big Island!
+**Where:** Where: Waikoloa Beach Marriott Resort and Spa, Waikoloa Beach, Hawaii (Big Island)
 
 ### Accommodations
 
 More information soon!
-<!-- [Wyndham Grand Rio Mar Beach Resort](http://www.wyndhamriomar.com/). We have reserved rooms for all registered attendees for May 30 - June 3 (1 attendee per room). _Transportation to the hotel:_ We are in the process of exploring travel options from the airport to the hotel. We will update you as soon as possible.
+Waikoloa Beach Marriott Resort and Spa](http://www.marriott.com/hotels/travel/koamc-waikoloa-beach-marriott-resort-and-spa/). We have reserved rooms for all registered attendees for January 18 -21 (1 attendee per room). _Transportation to the hotel:_ We are in the process of exploring travel options from the airport to the hotel. We will update you as soon as possible.
 
-**Want to stay before or after?** We have secured reduced rates for those that would like to arrive before or stay after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. Phone: +1-800-474-6627. -->
+<!-- **Want to stay before or after?** We have secured reduced rates for those that would like to arrive before or stay after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. Phone: +1-800-474-6627. -->
 
 ### Flights 
 
-Please book your flights as soon as possible, and provide your flight details on [this spreadsheet]() by X. Plan to arrive no later than X and depart no earlier than Y. You should purchase the lowest reasonably available economy airfare with a major commercial carrier. We will reimburse you for your flights after the event. If you need reimbursement before then, [please let us know](mailto:natalie.caulk@moore.org).
+Please book your flights as soon as possible - we will ask you to provide your flight details on the registration form by Tuesday November 1st. Plan to arrive no later than 10 pm on Tuesday January 17 and depart no earlier than 10 pm on Friday January 20. You should purchase the lowest reasonably available economy airfare with a major commercial carrier. We will reimburse you for your flights after the event. If you need reimbursement before then, [please let us know](mailto:natalie.caulk@moore.org).
 
 ### Expenses
 
