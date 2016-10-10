@@ -2,12 +2,11 @@
 
 **When:** January 18 - 20, 2017 (Plan for one day of travel on either side) 
 
-**Where:** Where: Waikoloa Beach Marriott Resort and Spa, Waikoloa Beach, Hawaii (Big Island)
+**Where:** Waikoloa Beach Marriott Resort and Spa, Waikoloa Beach, Hawaii (Big Island)
 
 ### Accommodations
 
-More information soon!
-Waikoloa Beach Marriott Resort and Spa](http://www.marriott.com/hotels/travel/koamc-waikoloa-beach-marriott-resort-and-spa/). We have reserved rooms for all registered attendees for January 18 -21 (1 attendee per room). _Transportation to the hotel:_ We are in the process of exploring travel options from the airport to the hotel. We will update you as soon as possible.
+[Waikoloa Beach Marriott Resort and Spa](http://www.marriott.com/hotels/travel/koamc-waikoloa-beach-marriott-resort-and-spa/). We have reserved rooms for all registered attendees for January 18 -21 (1 attendee per room). _Transportation to the hotel:_ We are in the process of exploring travel options from the airport to the hotel. We will update you as soon as possible.
 
 <!-- **Want to stay before or after?** We have secured reduced rates for those that would like to arrive before or stay after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. Phone: +1-800-474-6627. -->
 
