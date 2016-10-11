@@ -8,15 +8,11 @@ _**We want to hear your ideas for new topics or items already on the agenda. See
 - No preparation is needed for the symposium
 - The agenda is subject to change based on events at the symposium
 
-## Day 1
-
-TBD
-<!-- 
-## Monday 30 May
+## Tuesday 17 Jan 
 
 17:30 - 19:30 &nbsp;&nbsp;&nbsp;Welcome reception with MMI
 
-## Tuesday 31 May  
+## Wednesday 18 Jan  
 
 08:00 - 08:30 &nbsp;&nbsp;&nbsp;Breakfast
 
@@ -41,7 +37,7 @@ TBD
 19:00 - 20:30 &nbsp;&nbsp;&nbsp;Dinner with MMI
 
 
-## Wednesday 1 June 
+## Thursday 19 Jan 
 
 _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
@@ -69,9 +65,9 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 17:30 - 18:30 &nbsp;&nbsp;&nbsp;Dinner
 
-19:00 - 22:30 &nbsp;&nbsp;&nbsp;[Laguna Grande Bio Bay Kayak Tour](#kayak)
+19:00 - 22:30 &nbsp;&nbsp;&nbsp;Field trip (TBD)
 
-## Thursday 2 June
+## Friday 20 Jan
 
 08:30 - 09:00 &nbsp;&nbsp;&nbsp;Breakfast
 
@@ -93,7 +89,7 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 18:30 - 19:00 &nbsp;&nbsp;&nbsp;Wrap-up with MMI
 
-19:00 - 21:00 &nbsp;&nbsp;&nbsp;Dinner with MMI (bus to food trucks)
+19:00 - 21:00 &nbsp;&nbsp;&nbsp;Optional dinner
 
 ---
 
@@ -116,11 +112,6 @@ We will create posters as a large group based on overlapping areas of research a
 ### Open Science Panel
 
 The two keynote speakers for Wednesday (Lang and Cranmer) will be joined by Carly Strasser (DDD) and representatives from the MMI and DDD early career researchers present (to be named). The panel will be an informal Q&A session with heavy audience participation.
-
-<a name="kayak"></a>
-### BioBay Kayak Trip 
-
-We have planned a kayaking trip to the Laguna Grande bioluminescent bay for the night of Wednesday, June 1. The trip is appropriate for all skill levels, and should take about 2.5 hours including a brief introduction to kayaking and the bio bay ecosystem. We have reserved a spot for all symposium attendees. If for any reason you wish to opt out of this trip, please [let us know](mailto:natalie.caulk@moore.org) asap. More information: [Fajardo Bio Bay](http://www.puertoricodaytrips.com/fajardo-bio-bay/)
 
 ### TBD: To Be Determined <a name="tbd"></a>
 
