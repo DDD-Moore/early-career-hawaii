@@ -4,7 +4,16 @@ All attendees at our symposium are required to agree with the following code of 
 
 **Need Help?**
 
-Email us at ddd@moore.org or marinemicro@moore.org, call 650-597-DATA, make an [anonymous report](http://goo.gl/forms/nLtLzDqnkP), or find us at the symposium. 
+Email us at ddd@moore.org or marinemicro@moore.org, call 650-597-DATA, make an [anonymous report](http://goo.gl/forms/nLtLzDqnkP), or find us at the symposium. Points of contact: 
+
+- Adam Jones (MMI) 
+- Carly Strasser (DDD)
+- Chris Mentzel (DDD)
+- Jon Kaye (MMI)
+- Kelly Canesi (MMI)
+- Natalie Caulk (DDD)
+- Sara Bender (MMI)
+
 
 ### The Quick Version
 The symposium organizers are dedicated to providing a harassment-free symposium experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of symposium participants in any form. Sexual language and imagery is not appropriate for any symposium venue, including talks, workshops, social events, Twitter and other online media. Symposium participants violating these rules may be sanctioned or expelled from the meeting at the discretion of the organisers.
