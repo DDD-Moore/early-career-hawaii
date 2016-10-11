@@ -116,4 +116,3 @@ The two keynote speakers for Wednesday (Lang and Cranmer) will be joined by Carl
 ### TBD: To Be Determined <a name="tbd"></a>
 
 We will determine as a group how to best use these blocks of time based on the Beachfront Agenda Planning session on Tuesday.
--->
