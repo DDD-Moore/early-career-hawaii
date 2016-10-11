@@ -12,7 +12,7 @@
 
 ### Flights 
 
-Please book your flights into [KOA (Kona International Airport)](http://hawaii.gov/koa) as soon as possible - we will ask you to provide your flight details on the registration form by Tuesday November 1st. Plan to arrive no later than 10 pm on Tuesday January 17 and depart no earlier than 10 pm on Friday January 20. You should purchase the lowest reasonably available economy airfare with a major commercial carrier. We will reimburse you for your flights after the event. If you need reimbursement before then, [please let us know](mailto:natalie.caulk@moore.org).
+Please book your flights into [KOA (Kona International Airport)](http://hawaii.gov/koa) as soon as possible - we will ask you to provide your flight details on the registration form by Tuesday November 1st. Plan to arrive no later than 10 pm on Tuesday January 17 and depart no earlier than 8 pm on Friday January 20. You should purchase the lowest reasonably available economy airfare with a major commercial carrier. We will reimburse you for your flights after the event. If you need reimbursement before then, [please let us know](mailto:natalie.caulk@moore.org).
 
 ### Expenses
 
