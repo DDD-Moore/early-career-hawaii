@@ -53,7 +53,7 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 12:15 - 13:30	&nbsp;&nbsp;&nbsp;Lunch
 
-13:30 - 14:15 &nbsp;&nbsp;&nbsp;Keynote: [Kyle Cranmer](http://physics.as.nyu.edu/object/kylecranmer.html), Associate Professor of Physics at NYU 
+13:30 - 14:15 &nbsp;&nbsp;&nbsp;Keynote: [Kyle Cranmer](http://physics.as.nyu.edu/object/kylecranmer.html), Associate Professor of Physics at NYU (to be confirmed)
 
 14:15 - 15:30 &nbsp;&nbsp;&nbsp;[Open Science Panel](#panel)
 
