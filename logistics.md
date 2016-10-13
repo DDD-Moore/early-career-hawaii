@@ -4,11 +4,12 @@
 
 **Where:** Waikoloa Beach Marriott Resort and Spa, Waikoloa Beach, Hawaii (Big Island)
 
+### More details soon!
+
+<!--
 ### Accommodations
 
 [Waikoloa Beach Marriott Resort and Spa](http://www.marriott.com/hotels/travel/koamc-waikoloa-beach-marriott-resort-and-spa/). We have reserved rooms for all registered attendees for January 18 -21 (1 attendee per room). _Transportation to the hotel:_ We are in the process of exploring travel options from the airport to the hotel. We will update you as soon as possible.
-
-<!-- **Want to stay before or after?** We have secured reduced rates for those that would like to arrive before or stay after the symposium. The rate is $149 per night plus taxes and fees, and is valid for May 27-29 and June 3-5. You must call the Wyndham and book this separately; mention that you are part of the Moore Foundation group to receive the discounted rate. Phone: +1-800-474-6627. -->
 
 ### Flights 
 
@@ -39,3 +40,5 @@ After the event, please submit the following:
 1. _Optional:_ If you would prefer to receive an electronic funds transfer instead of a check, please fill out this EFT form: [docx](https://github.com/DDD-Moore/2016-symposium/blob/master/EFT.docx?raw=true) or [Google Doc](https://docs.google.com/document/d/18mkzG7gixwb_iPW6hAfHxX-JLlMf_0IHnEYZR1jtjFE/edit?usp=sharing).
 
 Email these to [natalie.caulk@moore.org](mailto:natalie.caulk@moore.org) after the event. If you need reimbursement before the event, please [let us know](mailto:natalie.caulk@moore.org).
+
+-->
