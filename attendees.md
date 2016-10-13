@@ -6,20 +6,20 @@
 - [Harish Doraiswamy](http://www.harishd.com), New York University
 - [Stuart Geiger](http://stuartgeiger.com), UC Berkeley
 - [David Gerard](http://home.uchicago.edu/~dcgerard/home.html), University of Chicago
-- [Nathan Goldbaum](), NCSA, University of Illinois, Urbana- Champaign
-- [Bryna Hazelton](), University of Washington
-- [Bernease Herman](), University of Washington
+- Nathan Goldbaum, NCSA, University of Illinois, Urbana- Champaign
+- Bryna Hazelton, University of Washington
+- Bernease Herman, University of Washington
 - [Joyce Hsiao](http://Jhsiao999.github.io), University of Chicago
 - [Meagan Lang](http://www.meaganlang.com), NCSA, University of Illinois, Urbana- Champaign
-- [Jie Liu](), University of Washington
-- [Tamer Mansour](), UC Davis
+- Jie Liu, University of Washington
+- Tamer Mansour, UC Davis
 - [Francois Michonneau](http://francoismichonneau.net), University of Florida
 - [Laura Noren](https://about.me/lauranoren), New York University
 - [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
 - [Henry Senyondo](http://weecology.org/user/30), University of Florida
 - [Mingfu Shao](http://lcbb.epfl.ch/people/shao), Carnegie Mellon University
 - [Carly Strasser](http://carlystrasser.net), Moore
-- [Jaclyn Taroni](), University of Pennsylvania
+- Jaclyn Taroni, University of Pennsylvania
 - [Gao Wang](http://home.uchicago.edu/gaow), University of Chicago
 - [Ce Zhang](http://cs.stanford.edu/people/czhang/), Stanford University
 
