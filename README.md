@@ -1,3 +1,8 @@
+# Got here from an email link? Then you're confirmed!
+
+
+
+
 ## Moore Early Career Researcher Symposium
 
 _Waikoloa Beach, Hawaii (Big Island), January 17-21, 2017_
