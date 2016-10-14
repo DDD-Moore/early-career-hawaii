@@ -1,6 +1,7 @@
 ## Attendees (invitations in progress)
 
 - [Nicholas Adams](http://bids.berkeley.edu/people/nick-adams), UC Berkeley
+- [Dino Bellugi](http://dinob.scripts.mit.edu/dinob/ www.esdlberkeley.com/), UC Berkeley
 - [Natalie Caulk](https://www.moore.org/people-detail?personUrl=caulk), Moore
 - [Garret Christensen](http://www.ocf.berkeley.edu/~garret), UC Berkeley
 - [Harish Doraiswamy](http://www.harishd.com), New York University
@@ -17,6 +18,7 @@
 - Jie Liu, University of Washington
 - Tamer Mansour, UC Davis
 - [Brian McFee](https://bmcfee.github.io), New York University
+- [Chris Mentzel](https://www.moore.org/people-detail?personUrl=chrism), Moore
 - [Francois Michonneau](http://francoismichonneau.net), University of Florida
 - Brett Naul, UC Berkeley
 - [Laura Noren](https://about.me/lauranoren), New York University
@@ -31,21 +33,19 @@
 <!--
 
 - [Joakim Anden](https://web.math.princeton.edu/~janden/), Princeton University
-- [Dino Bellugi](http://dinob.scripts.mit.edu/dinob/ www.esdlberkeley.com/), UC Berkeley
 - [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
 - [Kyle Cranmer](http://theoryandpractice.org), New York University
-- [Dave Harris](), University of Florida
+- Dave Harris, University of Florida
 - [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma-imamoglu), UC Berkeley
 - [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
 - [Stefan Karpinski](http://karpinski.org/), New York University
-- [Heewook Lee](), Carnegie Mellon University
-- [Chris Mentzel](https://www.moore.org/people-detail?personUrl=chrism), Moore
+- Heewook Lee, Carnegie Mellon University
 - [Andreas Mueller](http://amueller.io), New York University
 - [Min Ragan-Kelley](https://github.com/minrk), Simula Research Lab
-- [Felix Reidl](), North Carolina State
-- [Theo Rekatsinas](), Stanford University
+- Felix Reidl, North Carolina State
+- Theo Rekatsinas, Stanford University
 - [Allison Smith](http://www.kallisonsmith.us), University of Washington
-- [Valentina Staneva](), University of Washington
+- Valentina Staneva, University of Washington
 - [Christopher Tennant](https://sites.google.com/site/christopherjtennanthomepage/home), UC Berkeley
 - [Lei Tian](http://alum.mit.edu/www/lei_tian), UC Berkeley
 - [April Wright](http://wrightaprilm.github.io/pages/about_me.html), Iowa State University
