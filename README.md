@@ -24,7 +24,7 @@ We want your help in crafting the event! The agenda will include a few interesti
 
 We will be co-located with early career researchers from labs funded by the [Moore Marine Microbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative). We will be interacting informally with their group on Wednesday and Friday (e.g., meals, activities) and more formally on Thursday. Details to follow.
 
-All attendees at our symposium are must abide by the[Code of Conduct](https://github.com/DDD-Moore/early-career-hawaii/blob/master/code-of-conduct.md). 
+All attendees at our symposium are must abide by the [Code of Conduct](https://github.com/DDD-Moore/early-career-hawaii/blob/master/code-of-conduct.md). 
 
 
 
