@@ -8,12 +8,17 @@
 - [David Gerard](http://home.uchicago.edu/~dcgerard/home.html), University of Chicago
 - Nathan Goldbaum, NCSA, University of Illinois, Urbana- Champaign
 - Bryna Hazelton, University of Washington
+- [Daniel Himmelstein](http://dhimmel.com), University of Pennsylvania
 - Bernease Herman, University of Washington
 - [Joyce Hsiao](http://Jhsiao999.github.io), University of Chicago
+- [Daniela Huppenkothen](http://www.huppenkothen.org), New York University
 - [Meagan Lang](http://www.meaganlang.com), NCSA, University of Illinois, Urbana- Champaign
+- [Roy Lederman](http://roy.lederman.name), Princeton University
 - Jie Liu, University of Washington
 - Tamer Mansour, UC Davis
+- [Brian McFee](https://bmcfee.github.io), New York University
 - [Francois Michonneau](http://francoismichonneau.net), University of Florida
+- Brett Naul, UC Berkeley
 - [Laura Noren](https://about.me/lauranoren), New York University
 - [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
 - [Henry Senyondo](http://weecology.org/user/30), University of Florida
@@ -30,17 +35,12 @@
 - [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
 - [Kyle Cranmer](http://theoryandpractice.org), New York University
 - [Dave Harris](), University of Florida
-- [Daniel Himmelstein](http://dhimmel.com), University of Pennsylvania
-- [Daniela Huppenkothen](http://www.huppenkothen.org), New York University
 - [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma-imamoglu), UC Berkeley
 - [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
 - [Stefan Karpinski](http://karpinski.org/), New York University
-- [Roy Lederman](http://roy.lederman.name), Princeton University
 - [Heewook Lee](), Carnegie Mellon University
-- [Brian McFee](https://bmcfee.github.io), New York University
 - [Chris Mentzel](https://www.moore.org/people-detail?personUrl=chrism), Moore
 - [Andreas Mueller](http://amueller.io), New York University
-- [Brett Naul](), UC Berkeley
 - [Min Ragan-Kelley](https://github.com/minrk), Simula Research Lab
 - [Felix Reidl](), North Carolina State
 - [Theo Rekatsinas](), Stanford University
