@@ -13,6 +13,7 @@
 - Bernease Herman, University of Washington
 - [Joyce Hsiao](http://Jhsiao999.github.io), University of Chicago
 - [Daniela Huppenkothen](http://www.huppenkothen.org), New York University
+- [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma-imamoglu), UC Berkeley
 - [Meagan Lang](http://www.meaganlang.com), NCSA, University of Illinois, Urbana- Champaign
 - [Roy Lederman](http://roy.lederman.name), Princeton University
 - Jie Liu, University of Washington
@@ -25,6 +26,7 @@
 - [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
 - [Henry Senyondo](http://weecology.org/user/30), University of Florida
 - [Mingfu Shao](http://lcbb.epfl.ch/people/shao), Carnegie Mellon University
+- Valentina Staneva, University of Washington
 - [Carly Strasser](http://carlystrasser.net), Moore
 - Jaclyn Taroni, University of Pennsylvania
 - [Gao Wang](http://home.uchicago.edu/gaow), University of Chicago
@@ -36,7 +38,6 @@
 - [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
 - [Kyle Cranmer](http://theoryandpractice.org), New York University
 - Dave Harris, University of Florida
-- [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma-imamoglu), UC Berkeley
 - [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
 - [Stefan Karpinski](http://karpinski.org/), New York University
 - Heewook Lee, Carnegie Mellon University
@@ -45,7 +46,6 @@
 - Felix Reidl, North Carolina State
 - Theo Rekatsinas, Stanford University
 - [Allison Smith](http://www.kallisonsmith.us), University of Washington
-- Valentina Staneva, University of Washington
 - [Christopher Tennant](https://sites.google.com/site/christopherjtennanthomepage/home), UC Berkeley
 - [Lei Tian](http://alum.mit.edu/www/lei_tian), UC Berkeley
 - [April Wright](http://wrightaprilm.github.io/pages/about_me.html), Iowa State University
