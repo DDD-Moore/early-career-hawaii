@@ -18,6 +18,7 @@
 - [Daniela Huppenkothen](http://www.huppenkothen.org), New York University
 - [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma-imamoglu), UC Berkeley
 - [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
+- [Stefan Karpinski](http://karpinski.org/), New York University
 - [Meagan Lang](http://www.meaganlang.com), NCSA, University of Illinois, Urbana- Champaign
 - [Roy Lederman](http://roy.lederman.name), Princeton University
 - Heewook Lee, Carnegie Mellon University
@@ -42,7 +43,6 @@
 <!--
 
 - [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
-- [Stefan Karpinski](http://karpinski.org/), New York University
 - [Andreas Mueller](http://amueller.io), New York University
 - Theo Rekatsinas, Stanford University
 - [Allison Smith](http://www.kallisonsmith.us), University of Washington
