@@ -4,10 +4,12 @@
 - [Dino Bellugi](http://dinob.scripts.mit.edu/dinob/ www.esdlberkeley.com/), UC Berkeley
 - [Natalie Caulk](https://www.moore.org/people-detail?personUrl=caulk), Moore
 - [Garret Christensen](http://www.ocf.berkeley.edu/~garret), UC Berkeley
+- [Kyle Cranmer](http://theoryandpractice.org), New York University
 - [Harish Doraiswamy](http://www.harishd.com), New York University
 - [Stuart Geiger](http://stuartgeiger.com), UC Berkeley
 - [David Gerard](http://home.uchicago.edu/~dcgerard/home.html), University of Chicago
 - Nathan Goldbaum, NCSA, University of Illinois, Urbana- Champaign
+- Dave Harris, University of Florida
 - Bryna Hazelton, University of Washington
 - [Daniel Himmelstein](http://dhimmel.com), University of Pennsylvania
 - Bernease Herman, University of Washington
@@ -24,6 +26,7 @@
 - Brett Naul, UC Berkeley
 - [Laura Noren](https://about.me/lauranoren), New York University
 - [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
+- Felix Reidl, North Carolina State
 - [Henry Senyondo](http://weecology.org/user/30), University of Florida
 - [Mingfu Shao](http://lcbb.epfl.ch/people/shao), Carnegie Mellon University
 - Valentina Staneva, University of Washington
@@ -36,14 +39,11 @@
 
 - [Joakim Anden](https://web.math.princeton.edu/~janden/), Princeton University
 - [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
-- [Kyle Cranmer](http://theoryandpractice.org), New York University
-- Dave Harris, University of Florida
 - [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
 - [Stefan Karpinski](http://karpinski.org/), New York University
 - Heewook Lee, Carnegie Mellon University
 - [Andreas Mueller](http://amueller.io), New York University
 - [Min Ragan-Kelley](https://github.com/minrk), Simula Research Lab
-- Felix Reidl, North Carolina State
 - Theo Rekatsinas, Stanford University
 - [Allison Smith](http://www.kallisonsmith.us), University of Washington
 - [Christopher Tennant](https://sites.google.com/site/christopherjtennanthomepage/home), UC Berkeley
