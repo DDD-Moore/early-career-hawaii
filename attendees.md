@@ -1,6 +1,7 @@
 ## Attendees (invitations in progress)
 
 - [Nicholas Adams](http://bids.berkeley.edu/people/nick-adams), UC Berkeley
+- [Joakim Anden](https://web.math.princeton.edu/~janden/), Princeton University
 - [Dino Bellugi](http://dinob.scripts.mit.edu/dinob/ www.esdlberkeley.com/), UC Berkeley
 - [Natalie Caulk](https://www.moore.org/people-detail?personUrl=caulk), Moore
 - [Garret Christensen](http://www.ocf.berkeley.edu/~garret), UC Berkeley
@@ -18,6 +19,7 @@
 - [Fatma Imamoglu](http://bids.berkeley.edu/people/fatma-imamoglu), UC Berkeley
 - [Meagan Lang](http://www.meaganlang.com), NCSA, University of Illinois, Urbana- Champaign
 - [Roy Lederman](http://roy.lederman.name), Princeton University
+- Heewook Lee, Carnegie Mellon University
 - Jie Liu, University of Washington
 - Tamer Mansour, UC Davis
 - [Brian McFee](https://bmcfee.github.io), New York University
@@ -27,6 +29,7 @@
 - [Laura Noren](https://about.me/lauranoren), New York University
 - [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
 - Felix Reidl, North Carolina State
+- [Min Ragan-Kelley](https://github.com/minrk), Simula Research Lab
 - [Henry Senyondo](http://weecology.org/user/30), University of Florida
 - [Mingfu Shao](http://lcbb.epfl.ch/people/shao), Carnegie Mellon University
 - Valentina Staneva, University of Washington
@@ -37,13 +40,10 @@
 
 <!--
 
-- [Joakim Anden](https://web.math.princeton.edu/~janden/), Princeton University
 - [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
 - [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
 - [Stefan Karpinski](http://karpinski.org/), New York University
-- Heewook Lee, Carnegie Mellon University
 - [Andreas Mueller](http://amueller.io), New York University
-- [Min Ragan-Kelley](https://github.com/minrk), Simula Research Lab
 - Theo Rekatsinas, Stanford University
 - [Allison Smith](http://www.kallisonsmith.us), University of Washington
 - [Christopher Tennant](https://sites.google.com/site/christopherjtennanthomepage/home), UC Berkeley
