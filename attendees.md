@@ -27,6 +27,7 @@
 - [Brian McFee](https://bmcfee.github.io), New York University
 - [Chris Mentzel](https://www.moore.org/people-detail?personUrl=chrism), Moore
 - [Francois Michonneau](http://francoismichonneau.net), University of Florida
+- [Andreas Mueller](http://amueller.io), New York University
 - Brett Naul, UC Berkeley
 - [Laura Noren](https://about.me/lauranoren), New York University
 - [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
@@ -42,15 +43,14 @@
 
 <!--
 
-- [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
-- [Andreas Mueller](http://amueller.io), New York University
 - Theo Rekatsinas, Stanford University
-- [Allison Smith](http://www.kallisonsmith.us), University of Washington
 - [Christopher Tennant](https://sites.google.com/site/christopherjtennanthomepage/home), UC Berkeley
 - [Lei Tian](http://alum.mit.edu/www/lei_tian), UC Berkeley
 - [April Wright](http://wrightaprilm.github.io/pages/about_me.html), Iowa State University
 
 Confirmed NO
 - [Stefan Van Der Walt](http://mentat.za.net), UC Berkeley
+- [Michael Correll](http://homes.cs.washington.edu/~mcorrell/), University of Washington
+- [Allison Smith](http://www.kallisonsmith.us), University of Washington
 
 -->
