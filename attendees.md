@@ -32,6 +32,7 @@
 - [Laura Noren](https://about.me/lauranoren), New York University
 - [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
 - Felix Reidl, North Carolina State
+- Theo Rekatsinas, Stanford University
 - [Min Ragan-Kelley](https://github.com/minrk), Simula Research Lab
 - [Henry Senyondo](http://weecology.org/user/30), University of Florida
 - [Mingfu Shao](http://lcbb.epfl.ch/people/shao), Carnegie Mellon University
@@ -43,7 +44,6 @@
 
 <!--
 
-- Theo Rekatsinas, Stanford University
 - [Christopher Tennant](https://sites.google.com/site/christopherjtennanthomepage/home), UC Berkeley
 - [Lei Tian](http://alum.mit.edu/www/lei_tian), UC Berkeley
 - [April Wright](http://wrightaprilm.github.io/pages/about_me.html), Iowa State University
