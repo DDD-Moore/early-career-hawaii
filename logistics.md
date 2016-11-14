@@ -28,12 +28,12 @@ _**Note: Receipts required for all expenses over $75**_
 
 ### Reimbursement
 
-After the event, please submit the following:
-
+Information about reimbursement will be added here soon.
+<!-- 
 1. Receipts for expenses greater than $75
 1. Moore Reimbursement Form: [xlsx](https://github.com/DDD-Moore/early-career-hawaii/blob/master/Reimbursement_Form.xlsx?raw=true) or [google sheet](https://docs.google.com/spreadsheets/d/1mlPZCDFPEXDA0xwcQi0fbJoIVS3v8e7uScT9NdgAk_4/edit?usp=sharing)
 1. [W-9 Tax form (PDF)](https://github.com/DDD-Moore/early-career-hawaii/raw/master/W-9.pdf) 
 1. **Either** [CA-590 form (PDF)](https://github.com/DDD-Moore/early-career-hawaii/raw/master/CA_590.pdf) for California residents **OR** a [CA-587 form (PDF)](https://github.com/DDD-Moore/early-career-hawaii/raw/master/CA_587.pdf) for non-California residents. For CA-587, you only need to fill out Part II and sign.
 1. _Optional:_ If you would prefer to receive an electronic funds transfer instead of a check, please fill out this EFT form: [docx](https://github.com/DDD-Moore/early-career-hawaii/blob/master/EFT.docx?raw=true) or [Google Doc](https://docs.google.com/document/d/18mkzG7gixwb_iPW6hAfHxX-JLlMf_0IHnEYZR1jtjFE/edit?usp=sharing).
 
-Email these to [natalie.caulk@moore.org](mailto:natalie.caulk@moore.org) after the event. If you need reimbursement before the event, please [let us know](mailto:natalie.caulk@moore.org).
+Email these to [natalie.caulk@moore.org](mailto:natalie.caulk@moore.org) after the event. If you need reimbursement before the event, please [let us know](mailto:natalie.caulk@moore.org). -->
