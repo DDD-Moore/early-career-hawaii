@@ -12,6 +12,7 @@
 1. [David Gerard](http://home.uchicago.edu/~dcgerard/home.html), University of Chicago
 1. [David Harris](github.com/davharris), University of Florida
 1. Emrah Bostan, UC Berkeley
+1. [Eurika	Kaiser](http://eurikakaiser.com), University of Washington
 1. [Fatma Deniz](http://fatmanet.com), UC Berkeley
 1. [Felix Reidl](http://tcs.rwth-aachen.de/~reidl/), North Carolina State University
 1. [Francois Michonneau](http://francoismichonneau.net), University of Florida
