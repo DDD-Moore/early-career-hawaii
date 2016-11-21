@@ -24,11 +24,11 @@ _**We want to hear your ideas for new topics or items already on the agenda. See
 
 12:00 - 13:30	&nbsp;&nbsp;&nbsp;Lunch 
 
-13:30 - 15:00 &nbsp;&nbsp;&nbsp;[Careers](https://github.com/DDD-Moore/early-career-puertorico/issues/4) & [culture change](https://github.com/DDD-Moore/early-career-puertorico/issues/9)
+13:30 - 15:00 &nbsp;&nbsp;&nbsp;[Careers](https://github.com/DDD-Moore/early-career-hawaii/issues/10) & [culture change](https://github.com/DDD-Moore/early-career-hawaii/issues/4)
 
 15:00 - 15:30 &nbsp;&nbsp;&nbsp;Break
 
-15:30 - 17:00 &nbsp;&nbsp;&nbsp;[Funding & grant writing](https://github.com/DDD-Moore/early-career-puertorico/issues/2)
+15:30 - 17:00 &nbsp;&nbsp;&nbsp;[Funding & grant writing](https://github.com/DDD-Moore/early-career-hawaii/issues/7)
 
 17:00 - 18:00 &nbsp;&nbsp;&nbsp;[Beachfront agenda planning](#beach)
 
@@ -53,7 +53,7 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 12:15 - 13:30	&nbsp;&nbsp;&nbsp;Lunch
 
-13:30 - 14:15 &nbsp;&nbsp;&nbsp;Keynote: [Kyle Cranmer](http://physics.as.nyu.edu/object/kylecranmer.html), Associate Professor of Physics at NYU (to be confirmed)
+13:30 - 14:15 &nbsp;&nbsp;&nbsp;Keynote: [Kyle Cranmer](http://physics.as.nyu.edu/object/kylecranmer.html), Associate Professor of Physics at NYU 
 
 14:15 - 15:30 &nbsp;&nbsp;&nbsp;[Open Science Panel](#panel)
 
@@ -96,7 +96,7 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 <a name="bof"></a>
 ### Birds of a Feather Breakouts 
 
-We will break into groups based on interest in possible topics of discussion. **See [Issues](https://github.com/DDD-Moore/early-career-puertorico/issues)** to comment on ideas or add your own topic.
+We will break into groups based on interest in possible topics of discussion. **See [Issues](https://github.com/DDD-Moore/early-career-hawaii/issues)** to comment on ideas or add your own topic.
 
 <a name="beach"></a>
 ### Beachfront Agenda Planning 
