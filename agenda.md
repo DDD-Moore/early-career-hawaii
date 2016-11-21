@@ -101,12 +101,12 @@ We will break into groups based on interest in possible topics of discussion. **
 <a name="beach"></a>
 ### Beachfront Agenda Planning 
 
-We will use the end of Tuesday to determine how best to spend our time on Thursday. Why at the beach? Why not?!
+We will use the end of Tuesday to determine how best to spend our time on Friday. Why at the beach? Why not?!
 
 <a name="poster"></a>
 ### Poster Activity/Session 
 
-We will create posters as a large group based on overlapping areas of research and interest. These posters will be "presented" informally during the joint poster session with MMI on Wednesday.
+We will create posters as a large group based on overlapping areas of research and interest. These posters will be "presented" informally during the joint poster session with MMI on Thursday.
 
 <a name="panel"></a>
 ### Open Science Panel
@@ -115,4 +115,4 @@ The two keynote speakers for Wednesday (Lang and Cranmer) will be joined by Carl
 
 ### TBD: To Be Determined <a name="tbd"></a>
 
-We will determine as a group how to best use these blocks of time based on the Beachfront Agenda Planning session on Tuesday.
+We will determine as a group how to best use these blocks of time based on the Beachfront Agenda Planning session on Wednesday.
