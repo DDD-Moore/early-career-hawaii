@@ -30,9 +30,7 @@ _**We want to hear your ideas for new topics or items already on the agenda. See
 
 15:30 - 17:00 &nbsp;&nbsp;&nbsp;[Funding & grant writing](https://github.com/DDD-Moore/early-career-hawaii/issues/7)
 
-17:00 - 18:00 &nbsp;&nbsp;&nbsp;[Beachfront agenda planning](#beach)
-
-18:00 - 19:00 &nbsp;&nbsp;&nbsp;Cocktail hour with MMI
+17:00 - 19:00 &nbsp;&nbsp;&nbsp;[Beachfront agenda planning](#beach)
 
 19:00 - 20:30 &nbsp;&nbsp;&nbsp;Dinner with MMI
 
