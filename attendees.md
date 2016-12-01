@@ -29,6 +29,7 @@
 1. [Joakim Anden](https://web.math.princeton.edu/~janden/), Princeton University
 1. [Joyce Hsiao](http://Jhsiao999.github.io), University of Chicago
 1. [Jorge Poco](http://homes.cs.washington.edu/~jpocom/), University of Washington 
+1. [Karthik Ram](http://inundata.org), UC Berkeley
 1. [Kyle Cranmer](http://theoryandpractice.org), New York University
 1. [Kyle Kloster](http://www4.ncsu.edu/~kakloste/), North Carolina State University
 1. [Laura Nelson](http://www.lauraknelson.com), UC Berkeley
