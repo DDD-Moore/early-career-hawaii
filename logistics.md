@@ -28,7 +28,7 @@ _**Note: Receipts required for all expenses over $75**_
 
 ### Reimbursement
 
-All reimbursements should be submitted through this [online system](https://www.mosaicevents.com/moore2017MMIandDDDearlycareersummit/), managed by Mosaic Event Management. Please create an account and follow the instructions outlined on the website. If you have any questions, please feel free to email [MMIandDDD@mosaicevents.com](mailto:MMIandDDD@mosaicevents.com) or call 415-848-7803. If you require early reimbursement, [please let us know](mailto:natalie.caulk@moore.org) first.
+All reimbursements should be submitted through this [online system](https://www.mosaicevents.com/moore2017MMIandDDDearlycareersummit/), managed by Mosaic Event Management. Please create an account and follow the instructions outlined on the website. If you have any questions, feel free to email [MMIandDDD@mosaicevents.com](mailto:MMIandDDD@mosaicevents.com) or call 415-848-7803. If you require early reimbursement, [please let us know](mailto:natalie.caulk@moore.org) first.
 <!-- 
 1. Receipts for expenses greater than $75
 1. Moore Reimbursement Form: [xlsx](https://github.com/DDD-Moore/early-career-hawaii/blob/master/Reimbursement_Form.xlsx?raw=true) or [google sheet](https://docs.google.com/spreadsheets/d/1mlPZCDFPEXDA0xwcQi0fbJoIVS3v8e7uScT9NdgAk_4/edit?usp=sharing)
