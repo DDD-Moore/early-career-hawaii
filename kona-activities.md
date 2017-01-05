@@ -11,8 +11,10 @@
 - [Mauna Kea Observatories](http://www.ifa.hawaii.edu/mko/maunakea10.shtml) 
 - [City of Refuge](http://www.nps.gov/puho) 
 - [Imiloa Astronomy Center of Hawaii](http://www.imiloahawaii.org/) 
-- [Parker Ranch](http://www.parkerranch.com/) 
-- [Volcano Winery](http://www.volcanowinery.com/) 
+- [Kona Coffee tasting](https://www.lovebigisland.com/kona-coffee-tasting/)
+- [Kona Brewpub](http://konabrewingco.com/)
+- [Manta ray night diving](https://www.lovebigisland.com/big-island-manta-ray-night-dive/)
+- [Snorkeling](https://www.lovebigisland.com/big-island-snorkeling/)
 
 **Recreation**
 
