@@ -21,11 +21,11 @@ _**We want to hear your ideas for new topics or items already on the agenda. See
 
 10:30 - 11:00 &nbsp;&nbsp;&nbsp;Break
 
-11:00 - 12:00 &nbsp;&nbsp;&nbsp;[Poster activity](#poster)
+11:00 - 12:00 &nbsp;&nbsp;&nbsp;[Careers](https://github.com/DDD-Moore/early-career-hawaii/issues/10) & [culture change](https://github.com/DDD-Moore/early-career-hawaii/issues/4)
 
 12:00 - 13:30	&nbsp;&nbsp;&nbsp;Lunch 
 
-13:30 - 15:00 &nbsp;&nbsp;&nbsp;[Careers](https://github.com/DDD-Moore/early-career-hawaii/issues/10) & [culture change](https://github.com/DDD-Moore/early-career-hawaii/issues/4)
+13:30 - 15:00 &nbsp;&nbsp;&nbsp;[Poster activity](#poster)
 
 15:00 - 15:30 &nbsp;&nbsp;&nbsp;Break
 
@@ -44,9 +44,13 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 08:30 - 09:00 &nbsp;&nbsp;&nbsp;Welcome, introductions, logistics
 
-09:00 - 11:00 &nbsp;&nbsp;&nbsp;[Birds of a Feather Breakouts](#bof)
+09:00 - 10:15 &nbsp;&nbsp;&nbsp;[Birds of a Feather Breakouts](#bof)
 
-11:00 - 11:30 &nbsp;&nbsp;&nbsp;Break
+10:15 - 10:45 &nbsp;&nbsp;&nbsp;Break
+
+10:45 - 11:00 &nbsp;&nbsp;&nbsp;Report back
+
+11:00 - 11:30 &nbsp;&nbsp;&nbsp;Talk: Robert Kirshner, Chief Program Officer of Science at Moore
 
 11:30 - 12:15 &nbsp;&nbsp;&nbsp;Keynote: [David Lang](https://about.me/davidtlang), [OpenROV](http://openrov.com)
 
@@ -60,11 +64,10 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 16:00 - 17:00 &nbsp;&nbsp;&nbsp;[Poster Session](#poster)
 
-17:00 - 17:30 &nbsp;&nbsp;&nbsp;Break 
+17:00 - 19:00 &nbsp;&nbsp;&nbsp;Break 
 
-17:30 - 18:30 &nbsp;&nbsp;&nbsp;Dinner
+19:00 - 20:30 &nbsp;&nbsp;&nbsp;Dinner
 
-19:00 - 22:30 &nbsp;&nbsp;&nbsp;Field trip (TBD)
 
 ## Friday 20 Jan
 
@@ -84,9 +87,9 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 16:00 - 16:30 &nbsp;&nbsp;&nbsp;Break
 
-16:30 - 18:00 &nbsp;&nbsp;&nbsp;Final thoughts
+16:30 - 17:00 &nbsp;&nbsp;&nbsp;Final thoughts
 
-18:30 - 19:00 &nbsp;&nbsp;&nbsp;Wrap-up with MMI
+17:00 - 17:30 &nbsp;&nbsp;&nbsp;Wrap-up with MMI
 
 19:00 - 21:00 &nbsp;&nbsp;&nbsp;Optional dinner
 
