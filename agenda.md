@@ -108,7 +108,7 @@ We will use the end of Tuesday to determine how best to spend our time on Friday
 <a name="poster"></a>
 ### Poster Activity/Session 
 
-We will create posters as a large group based on overlapping areas of research and interest. These posters will be "presented" informally during the joint poster session with MMI on Thursday.
+Instead of a formal talk or poster presentation, we are holding a “Living Poster Session”. All participants will create their own “Living Poster” on Wednesday. You will sketch your research on a small poster-sized piece of paper we will provide, and during the meeting others will add their ideas, comments, questions, etc. This activity will be in conjunction with the MMI group.
 
 <a name="panel"></a>
 ### Open Science Panel
