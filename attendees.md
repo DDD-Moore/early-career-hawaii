@@ -4,7 +4,7 @@
 1. [Alexandra	Paxton](http://www.alexandrapaxton.com), UC Berkeley
 1. [Andreas Mueller](http://amueller.io), New York University
 1. [Arvind Satyanarayan](http://arvindsatya.com), Stanford University
-1. [Bernease Herman](http://berneaseherman.com), University of Washington
+1. [Bernease Herman](http://escience.washington.edu/people/bernease-herman/), University of Washington
 1. [Brian McFee](https://bmcfee.github.io), New York University
 1. Bryna Hazelton, University of Washington
 1. [Carly Strasser](http://carlystrasser.net), Moore Foundation
