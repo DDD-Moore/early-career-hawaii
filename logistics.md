@@ -6,7 +6,7 @@
 
 ### Accommodations
 
-[Waikoloa Beach Marriott Resort and Spa](http://www.marriott.com/hotels/travel/koamc-waikoloa-beach-marriott-resort-and-spa/). We have reserved rooms for all registered attendees for January 17 -21 (1 attendee per room). _Transportation to the hotel:_ We are in the process of exploring travel options from the airport to the hotel. We will update you as soon as possible.
+[Waikoloa Beach Marriott Resort and Spa](http://www.marriott.com/hotels/travel/koamc-waikoloa-beach-marriott-resort-and-spa/). We have reserved rooms for all registered attendees for January 17 -21 (1 attendee per room). Confirmation numbers are [here](https://github.com/DDD-Moore/early-career-hawaii/blob/master/hotel-confirmations.md).
 
 ### Flights 
 
