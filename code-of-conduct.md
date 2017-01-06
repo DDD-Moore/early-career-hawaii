@@ -4,7 +4,7 @@ All attendees at our symposium are required to agree with the following code of 
 
 **Need Help?**
 
-Email us at ddd@moore.org or marinemicro@moore.org, call 650-597-DATA, make an [anonymous report](http://goo.gl/forms/nLtLzDqnkP), or find us at the symposium. Points of contact: 
+Email us at ddd@moore.org or marinemicro@moore.org, call 650-701-DATA, make an [anonymous report](http://goo.gl/forms/nLtLzDqnkP), or find us at the symposium. Points of contact: 
 
 - Adam Jones (MMI) 
 - Carly Strasser (DDD)
@@ -29,7 +29,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a DDD or MMI representative immediately. You can make a report in the following ways:
 
 - Email: ddd@moore.org or marinemicro@moore.org
-- Phone: 650-597-3282 (650-597-DATA)
+- Phone: 650-701-3282 (650-701-DATA)
 - Anonymously via this reporting form: [goo.gl/forms/nLtLzDqnkP](http://goo.gl/forms/nLtLzDqnkP)
 
 DDD or MMI representatives will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the symposium. We value your attendance.
