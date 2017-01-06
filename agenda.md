@@ -17,6 +17,8 @@ _**We want to hear your ideas for new topics or items already on the agenda. See
 
 _Location: Naupaka Salon 4 & Naupaka Lanai_
 
+|Time|Activity|
+|:---|:-----|
 | 08:00 - 08:30 | Breakfast |
 | 08:30 - 10:30 | Welcome, introductions, logistics |
 | 10:30 - 11:00 | Break |
@@ -33,6 +35,8 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 _Location: Naupaka Salon 4 & Naupaka Lanai_
 _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
+|Time|Activity|
+|:---|:-----|
 | 08:00 - 08:30 | Breakfast|
 | 08:30 - 09:00 | Welcome, introductions, logistics|
 | 09:00 - 10:15 | [Birds of a Feather Breakouts](#bof)|
@@ -52,6 +56,8 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 _Location: Naupaka Salon 4 & Naupaka Lanai_
 
+|Time|Activity|
+|:---|:-----|
 | 08:30 - 09:00 | Breakfast|
 | 09:00 - 09:30 | Revisit agenda|
 | 09:30 - 11:00 | [Birds of a Feather Breakouts](#bof)|
