@@ -11,60 +11,57 @@ _**We want to hear your ideas for new topics or items already on the agenda. See
 
 ## Tuesday 17 Jan 
 
-|Time | Activity | Location |
-| :------------------ | :------------- | :--|
-| 17:30 - 19:30 | Welcome reception with MMI |Paniolo Ocean Terrace|
+17:30 - 19:30 &nbsp;&nbsp;&nbsp;Welcome reception with MMI @ Paniolo Ocean Terrace
 
 ## Wednesday 18 Jan  
 
-|Time | Activity | Location |
-| :------------------ | :------------- | :--|
-| 08:00 - 08:30 | Breakfast |Naupaka Lanai |
-| 08:30 - 10:30 | Welcome, introductions, logistics |Naupaka Salon 4|
-| 10:30 - 11:00 | Break |Naupaka Lanai|
-| 11:00 - 12:00 | [Careers](https://github.com/DDD-Moore/early-career-hawaii/issues/10) & [culture change](https://github.com/DDD-Moore/early-career-hawaii/issues/4) |Naupaka Salon 4|
-| 12:00 - 13:30	| Lunch  |Paniolo Ocean Terrace|
-| 13:30 - 15:00 | [Poster activity](#poster) |Naupaka Salon 4|
-| 15:00 - 15:30 | Break | Naupaka Lanai|
-| 15:30 - 17:00 | [Funding & grant writing](https://github.com/DDD-Moore/early-career-hawaii/issues/7) |Naupaka Salon 4 |
-| 17:00 - 19:00 | [Beachfront agenda planning](#beach) |TBD|
-| 19:00 - 20:30 | Dinner with MMI |Paniolo Ocean Terrace|
+_Location: Naupaka Salon 4 & Naupaka Lanai_
+
+| 08:00 - 08:30 | Breakfast |
+| 08:30 - 10:30 | Welcome, introductions, logistics |
+| 10:30 - 11:00 | Break |
+| 11:00 - 12:00 | [Careers](https://github.com/DDD-Moore/early-career-hawaii/issues/10) & [culture change](https://github.com/DDD-Moore/early-career-hawaii/issues/4) |
+| 12:00 - 13:30	| Lunch  |
+| 13:30 - 15:00 | [Poster activity](#poster) |
+| 15:00 - 15:30 | Break |
+| 15:30 - 17:00 | [Funding & grant writing](https://github.com/DDD-Moore/early-career-hawaii/issues/7) |
+| 17:00 - 19:00 | [Beachfront agenda planning](#beach) |
+| 19:00 - 20:30 | Dinner with MMI |
 
 ## Thursday 19 Jan 
 
+_Location: Naupaka Salon 4 & Naupaka Lanai_
 _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
-|Time | Activity | Location |
-| :------------------ | :------------- | :--|
-| 08:00 - 08:30 | Breakfast|Naupaka Lanai |
-| 08:30 - 09:00 | Welcome, introductions, logistics|Naupaka Salon 4|
-| 09:00 - 10:15 | [Birds of a Feather Breakouts](#bof)|Naupaka Salon 4|
-| 10:15 - 10:45 | Break|Naupaka Lanai |
-| 10:45 - 11:00 | Report back|Naupaka Salon 4|
-| 11:00 - 11:30 | Talk: Robert Kirshner, Chief Program Officer of Science at Moore|Naupaka Salon 4|
-| 11:30 - 12:15 | Keynote: [David Lang](https://about.me/davidtlang), [OpenROV](http://openrov.com)|Naupaka Salon 4|
-| 12:15 - 13:30	| Lunch|Naupaka Lanai |
-| 13:30 - 14:15 | [Keynote: Kyle Cranmer](#Cranmer): _Past, present, and future: personal reflections while moving my office_|Naupaka Salon 4|
-| 14:15 - 15:30 | [Open Science Panel](#panel)|Naupaka Salon 4|
-| 15:30 - 16:00 | Break |Naupaka Lanai |
-| 16:00 - 17:00 | [Joint Poster Session](#poster)|Naupaka Salon 4|
-| 17:00 - 19:00 | Free time | |
-| 19:00 - 20:30 | Dinner|Naupaka Lanai |
+| 08:00 - 08:30 | Breakfast|
+| 08:30 - 09:00 | Welcome, introductions, logistics|
+| 09:00 - 10:15 | [Birds of a Feather Breakouts](#bof)|
+| 10:15 - 10:45 | Break|
+| 10:45 - 11:00 | Report back|
+| 11:00 - 11:30 | Talk: Robert Kirshner, Chief Program Officer of Science at Moore|
+| 11:30 - 12:15 | Keynote: [David Lang](https://about.me/davidtlang), [OpenROV](http://openrov.com)|
+| 12:15 - 13:30	| Lunch|
+| 13:30 - 14:15 | [Keynote: Kyle Cranmer](#Cranmer): _Past, present, and future: personal reflections while moving my office_|
+| 14:15 - 15:30 | [Open Science Panel](#panel)|
+| 15:30 - 16:00 | Break |
+| 16:00 - 17:00 | [Joint Poster Session](#poster)|
+| 17:00 - 19:00 | Free time |
+| 19:00 - 20:30 | Dinner|
 
 ## Friday 20 Jan
 
-|Time | Activity | Location |
-| :------------------ | :------------- | :--|
-| 08:30 - 09:00 | Breakfast|Naupaka Lanai |
-| 09:00 - 09:30 | Revisit agenda|Naupaka Salon 4|
-| 09:30 - 11:00 | [Birds of a Feather Breakouts](#bof)|Naupaka Salon 4|
-| 11:00 - 11:30 | Break|Naupaka Lanai |
-| 11:30 - 13:00 | [TBD](#tbd)|Naupaka Salon 4|
-| 13:00 - 14:30 | Lunch|Naupaka Lanai |
-| 14:30 - 16:00 | [TBD](#tbd)|Naupaka Salon 4|
-| 16:00 - 16:30 | Break|Naupaka Lanai |
-| 16:30 - 17:00 | Final thoughts|Naupaka Salon 4|
-| 17:00 - 17:30 | Wrap-up with MMI|Naupaka Salon 4|
+_Location: Naupaka Salon 4 & Naupaka Lanai_
+
+| 08:30 - 09:00 | Breakfast|
+| 09:00 - 09:30 | Revisit agenda|
+| 09:30 - 11:00 | [Birds of a Feather Breakouts](#bof)|
+| 11:00 - 11:30 | Break|
+| 11:30 - 13:00 | [TBD](#tbd)|
+| 13:00 - 14:30 | Lunch|
+| 14:30 - 16:00 | [TBD](#tbd)|
+| 16:00 - 16:30 | Break|
+| 16:30 - 17:00 | Final thoughts|
+| 17:00 - 17:30 | Wrap-up with MMI|
 
 
 ---
