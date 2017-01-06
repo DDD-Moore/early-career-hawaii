@@ -1,5 +1,6 @@
+
 |	Last Name	|	Tue Jan 17	|	Wed Jan 18	|	Thu Jan 19	|	Fri Jan 20	| Confirmation #	|
-|:--|-:-|-:-|-:-|-:-|-:-|
+|:--- |:--- |:--- |:--- |:--- |:--- |
 |	Adams	|	x	|	x	|	x	|	x	|	85588912	|
 |	Ahmed	|	x	|	x	|	x	|	x	|	85588896	|
 |	Alexander	|	x	|	x	|	x	|	x	|	85589429	|
