@@ -33,6 +33,7 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 ## Thursday 19 Jan 
 
 _Location: Naupaka Salon 4 & Naupaka Lanai_
+
 _Overlap day with Marine Microbiology Initiative Early Career researchers_
 
 |Time|Activity|
