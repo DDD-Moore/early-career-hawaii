@@ -42,10 +42,10 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 | 09:00 - 10:15 | [Birds of a Feather Breakouts](#bof)|
 | 10:15 - 10:45 | Break|
 | 10:45 - 11:00 | Report back|
-| 11:00 - 11:30 | Talk: Robert Kirshner, Chief Program Officer of Science at Moore|
-| 11:30 - 12:15 | Keynote: [David Lang](https://about.me/davidtlang), [OpenROV](http://openrov.com)|
+| 11:00 - 11:30 | Talk by Robert Kirshner, Chief Program Officer of Science at Moore|
+| 11:30 - 12:15 | [Keynote by David Lang](#Lang): _Title TBD_|
 | 12:15 - 13:30	| Lunch|
-| 13:30 - 14:15 | [Keynote: Kyle Cranmer](#Cranmer): _Past, present, and future: personal reflections while moving my office_|
+| 13:30 - 14:15 | [Keynote by Kyle Cranmer](#Cranmer): _Past, present, and future: personal reflections while moving my office_|
 | 14:15 - 15:30 | [Open Science Panel](#panel)|
 | 15:30 - 16:00 | Break |
 | 16:00 - 17:00 | [Joint Poster Session](#poster)|
@@ -86,6 +86,11 @@ We will use the end of Tuesday to determine how best to spend our time on Friday
 ### Poster Activity/Session 
 
 Instead of a formal talk or poster presentation, we are holding a “Living Poster Session”. All participants will create their own “Living Poster” on Wednesday. You will sketch your research on a small poster-sized piece of paper we will provide, and during the meeting others will add their ideas, comments, questions, etc. This activity will be in conjunction with the MMI group.
+
+<a name="Lang"></a>
+### Keynote by David Lang
+
+David Lang spends most of his time working on [OpenROV](http://www.openrov.com/), an open source underwater robot, and [OpenExplorer](https://www.openexplorer.com/home), a community of professional and amateur explorers around the world. He is a member of NOAA’s Ocean Exploration Advisory Board, a TED Senior Fellow, and a National Geographic Emerging Explorer. Prior to underwater robots, he managed a sailing school in Berkeley for a few years – David still sails as much as he can. If you want to hear the long story, there’s a [good interview on NPR](http://www.npr.org/2015/10/23/449202146/how-can-we-open-source-exploring-our-oceans). Recently, David wrote a boke: [Zero to Maker](https://www.amazon.com/Zero-Maker-Learn-Enough-Anything/dp/1449356435). You can read more of his musings on his [website](http://www.davidtlang.com/) or follow him on Twitter: [@davidtlang](https://twitter.com/davidtlang).
 
 <a name="Cranmer"></a>
 ### Keynote by Kyle Cranmer
