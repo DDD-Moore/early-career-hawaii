@@ -39,17 +39,16 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 |:---|:-----|
 | 08:00 - 08:30 | Breakfast|
 | 08:30 - 09:00 | Welcome, introductions, logistics|
-| 09:00 - 10:15 | [Birds of a Feather Breakouts](#bof)|
-| 10:15 - 10:45 | Break|
-| 10:45 - 11:00 | Report back|
-| 11:00 - 11:30 | Talk by Robert Kirshner, Chief Program Officer of Science at Moore|
+| 09:00 - 10:30 | [Joint Poster Session](#poster)|
+| 10:30 - 11:00 | Break|
+| 11:00 - 11:30 | Talk by [Robert Kirshner](https://en.wikipedia.org/wiki/Robert_Kirshner), Chief Program Officer of Science at Moore|
 | 11:30 - 12:15 | [Keynote by David Lang](#Lang): _Science Wants to be Open: Emerging Opportunities Outside the Tenure Track_|
 | 12:15 - 13:30	| Lunch|
 | 13:30 - 14:15 | [Keynote by Kyle Cranmer](#Cranmer): _Past, present, and future: personal reflections while moving my office_|
 | 14:15 - 15:30 | [Open Science Panel](#panel)|
 | 15:30 - 16:00 | Break |
-| 16:00 - 17:00 | [Joint Poster Session](#poster)|
-| 17:00 - 19:00 | Free time |
+| 16:00 - 17:30 | [Birds of a Feather Breakouts](#bof)|
+| 17:30 - 19:00 | Free time |
 | 19:00 - 20:30 | Dinner|
 
 ## Friday 20 Jan
