@@ -43,7 +43,7 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 | 10:15 - 10:45 | Break|
 | 10:45 - 11:00 | Report back|
 | 11:00 - 11:30 | Talk by Robert Kirshner, Chief Program Officer of Science at Moore|
-| 11:30 - 12:15 | [Keynote by David Lang](#Lang): _Title TBD_|
+| 11:30 - 12:15 | [Keynote by David Lang](#Lang): _Science Wants to be Open: Emerging Opportunities Outside the Tenure Track_|
 | 12:15 - 13:30	| Lunch|
 | 13:30 - 14:15 | [Keynote by Kyle Cranmer](#Cranmer): _Past, present, and future: personal reflections while moving my office_|
 | 14:15 - 15:30 | [Open Science Panel](#panel)|
