@@ -80,7 +80,7 @@ We will break into groups based on interest in possible topics of discussion. **
 <a name="beach"></a>
 ### Beachfront Agenda Planning 
 
-We will use the end of Tuesday to determine how best to spend our time on Friday. Why at the beach? Why not?!
+We will use the end of Wednesday to determine how best to spend our time on Friday. Why at the beach? Why not?!
 
 <a name="poster"></a>
 ### Poster Activity/Session 
