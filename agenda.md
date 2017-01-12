@@ -23,11 +23,12 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 | 08:30 - 10:30 | Welcome, introductions, logistics |
 | 10:30 - 11:00 | Break |
 | 11:00 - 12:00 | [Careers](https://github.com/DDD-Moore/early-career-hawaii/issues/10) & [culture change](https://github.com/DDD-Moore/early-career-hawaii/issues/4) |
-| 12:00 - 13:30	| Lunch  |
-| 13:30 - 15:00 | [Poster activity](#poster) |
-| 15:00 - 15:30 | Break |
-| 15:30 - 17:00 | [Funding & grant writing](https://github.com/DDD-Moore/early-career-hawaii/issues/7) |
-| 17:00 - 19:00 | [Beachfront agenda planning](#beach) |
+| 12:00 - 14:00	| Lunch & Free time  |
+| 14:00 - 15:30 | [Poster activity](#poster) |
+| 15:30 - 16:00 | Break |
+| 16:00 - 16:45 | Tools & Methods around-the-room |
+| 17:00 - 18:00 | [Beachfront agenda planning](#beach) |
+| 18:00 - 19:00 |Free time |
 | 19:00 - 20:30 | Dinner with MMI |
 
 ## Thursday 19 Jan 
