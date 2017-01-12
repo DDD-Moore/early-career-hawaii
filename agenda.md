@@ -68,9 +68,9 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 | 11:00 - 11:30 | Break|
 | 11:30 - 13:00 | [TBD](#tbd)|
 | 13:00 - 14:30 | Lunch|
-| 14:30 - 16:00 | [TBD](#tbd)|
-| 16:00 - 16:30 | Break|
-| 16:30 - 17:00 | Final thoughts|
+| 14:30 - 15:30 | [TBD](#tbd)|
+| 15:30 - 16:00 | Break|
+| 16:00 - 17:00 | State of data science; final thoughts|
 | 17:00 - 17:30 | Wrap-up with MMI|
 
 
