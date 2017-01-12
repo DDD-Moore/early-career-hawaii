@@ -47,10 +47,12 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 | 11:00 - 11:30 | Talk by [Robert Kirshner](https://en.wikipedia.org/wiki/Robert_Kirshner), Chief Program Officer of Science at Moore|
 | 11:30 - 12:15 | [Keynote by David Lang](#Lang): _Science Wants to be Open: Emerging Opportunities Outside the Tenure Track_|
 | 12:15 - 13:30	| Lunch|
-| 13:30 - 14:15 | [Keynote by Kyle Cranmer](#Cranmer): _Past, present, and future: personal reflections while moving my office_|
-| 14:15 - 15:30 | [Open Science Panel](#panel)|
+| 13:30 - 14:15 | [Keynote by Kyle Cranmer](#Cranmer): _Past, Present, & Future: Personal Reflections While Moving My Office_|
+| 14:15 - 15:15 | [Open Science Panel](#panel)|
+| 15:15 - 15:30 | [ORCID](http://orcid.org) Activity|
 | 15:30 - 16:00 | Break |
-| 16:00 - 17:30 | [Birds of a Feather Breakouts](#bof)|
+| 16:00 - 16:15 | [Birds of a Feather](#bof) Planning|
+| 16:15 - 17:30 | [Birds of a Feather Breakouts](#bof)|
 | 17:30 - 19:00 | Free time |
 | 19:00 - 20:30 | Dinner|
 
