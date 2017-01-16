@@ -12,7 +12,7 @@
 1. [Daniel Himmelstein](http://dhimmel.com), University of Pennsylvania
 1. [Daniela Huppenkothen](http://www.huppenkothen.org), New York University
 1. [David Gerard](http://home.uchicago.edu/~dcgerard/home.html), University of Chicago
-1. [David Harris](github.com/davharris), University of Florida
+1. [David Harris](http://github.com/davharris), University of Florida
 1. Emrah Bostan, UC Berkeley
 1. [Eurika	Kaiser](http://eurikakaiser.com), University of Washington
 1. [Fatma Deniz](http://fatmanet.com), UC Berkeley
