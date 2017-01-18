@@ -52,3 +52,5 @@
 1. Theo Rekatsinas, Stanford University
 1. Valentina Staneva, University of Washington
 1. [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
+
+[List including MMI participants (docx)](https://github.com/DDD-Moore/early-career-hawaii/blob/master/DDD-MMI-full-attendee-list.docx?raw=true)
