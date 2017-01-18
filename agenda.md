@@ -20,9 +20,9 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 |Time|Activity|
 |:---|:-----|
 | 08:00 - 08:30 | Breakfast |
-| 08:30 - 10:30 | Welcome, introductions, logistics |
-| 10:30 - 11:00 | Break |
-| 11:00 - 12:00 | [Careers](https://github.com/DDD-Moore/early-career-hawaii/issues/10) & [culture change](https://github.com/DDD-Moore/early-career-hawaii/issues/4) |
+| 08:30 - 10:00 | Welcome, introductions, logistics |
+| 10:00 - 10:30 | Break |
+| 10:30 - 12:00 | [Careers](https://github.com/DDD-Moore/early-career-hawaii/issues/10) & [culture change](https://github.com/DDD-Moore/early-career-hawaii/issues/4) |
 | 12:00 - 14:00	| Lunch & Free time  |
 | 14:00 - 15:30 | [Poster activity](#poster) |
 | 15:30 - 16:00 | Break |
