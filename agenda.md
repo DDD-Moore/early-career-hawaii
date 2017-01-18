@@ -4,7 +4,7 @@ _**We want to hear your ideas for new topics or items already on the agenda. See
 
 ### Notes
 
-- MMI = [Marine Micorbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative) at the Moore Foundation
+- MMI = [Marine Microbiology Initiative](https://www.moore.org/programs/science/marine-microbiology-initiative) at the Moore Foundation
 - No preparation is needed for the symposium
 - The agenda is subject to change based on events at the symposium
 - There will be plenty of breaks and time for small groups/interactions, so please plan to be present (both mentally and physically) for the entirety of the agenda's activities.
