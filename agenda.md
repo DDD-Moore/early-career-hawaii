@@ -40,9 +40,9 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 |Time|Activity|
 |:---|:-----|
 | 08:00 - 08:30 | Breakfast|
-| 08:30 - 08:45 | Framing for the day; icebreaker |
-| 08:45 - 09:00 | Welcome by Harvey Fineberg, President of Moore Foundation  |
-| 09:00 - 10:30 | [Joint Living Poster Session](#poster)|
+| 08:30 - 09:00 | Framing for the day; icebreaker |
+| 09:00 - 09:15 | Welcome by Harvey Fineberg, President of Moore Foundation  |
+| 09:15 - 10:30 | [Joint Living Poster Session](#poster)|
 | 10:30 - 11:00 | Break|
 | 11:00 - 11:30 | Talk by [Robert Kirshner](https://en.wikipedia.org/wiki/Robert_Kirshner), Chief Program Officer of Science at Moore|
 | 11:30 - 12:15 | [Keynote by David Lang](#Lang): _Science Wants to be Open: Emerging Opportunities Outside the Tenure Track_|
