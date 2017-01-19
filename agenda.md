@@ -27,7 +27,8 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 | 14:00 - 15:30 | [Poster activity](#poster) |
 | 15:30 - 16:00 | Break |
 | 16:00 - 16:45 | Tools & Methods around-the-room |
-| 17:00 - 18:00 | [Beachfront agenda planning](#beach) |
+| 16:45 - 17:15 | Transition
+| 17:15 - 18:00 | [Beachfront/poolside agenda planning](#beach) |
 | 18:00 - 19:00 |Free time |
 | 19:00 - 20:30 | Dinner with MMI |
 
