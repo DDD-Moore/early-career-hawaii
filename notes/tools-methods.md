@@ -1,0 +1,78 @@
+### Tools & Methods 
+
+- [Neo 4j](https://neo4j.com/)
+- [Jupyter notebooks + Hub](https://jupyter.org/) +3
+- IPython Parallel
+- inviwo.org
+- openspaceproject.com
+- [fastutil](http://fastutil.di.unimi.it) for Java
+- [Conda-forge](https://github.com/conda-forge)
+- [Workflowy](https://workflowy.com/)  +1
+- [mybinder](http://mybinder.org/)
+- [Gephi](https://gephi.org/)
+- inkscape 
+- Omnigraffle
+- [Trello](http://trello.com)
+- detexify
+- Go language
+- dat
+- noms
+- TypeScript
+- Text Thresher (available in March-ish)
+- [remake](https://github.com/richfitz/remake) (r package) 
+- [CyVerse](http://www.cyverse.org/)
+- dynalist
+- [overleaf](https://www.overleaf.com/) +4
+- [tableau](http://www.tableau.com/)
+- [Vulkan](https://www.khronos.org/vulkan/)
+- data polygamy
+- [Edward](http://edwardlib.org/)
+- [sqlalchemy](http://www.sqlalchemy.org/)
+- [JOSS](http://joss.theoj.org/)
+- Pandoc (compiles LaTex to Word) (+2)
+- paws.wmflabs.org
+- getorg 
+- [code ocean](https://codeocean.com/)
+- [Julia language](http://julialang.org/)
+- [discourse](https://www.discourse.org/)
+- [latexit](https://pierre.chachatelier.fr/latexit/latexit-home.php)
+- [pycortex](https://github.com/gallantlab/pycortex)
+- [Hemmingway App]([)http://www.hemingwayapp.com/)
+- [gdcp](https://github.com/ctberthiaume/gdcp) - command line for accessing Google Drive (+1)
+- oadoi.org
+- short doi http://shortdoi.org/ 
+- sharelatex
+- wholetail.org
+- [unicodeit](http://www.unicodeit.net/)
+- docker
+- authorea
+- paperpile
+- [journal of brief ideas](http://beta.briefideas.org/)
+- ORCID
+- https://libraries.io/
+- [librosa](https://github.com/librosa/librosa)
+- https://travis-ci.org/
+- [ewah compressed bitmaps](https://github.com/lemire/EWAHBoolArray)
+- http://melodi.ee.washington.edu/gmtk/ 
+- Scikitlearn 0.17 added LDA decomposition - http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html
+- [Pandas](http://pandas.pydata.org/) +1
+- three.gs
+- reveal.js
+- jupyter sql magic
+- memory map+dask
+- seaborn
+- DNest4
+- [stingray](https://github.com/StingraySoftware/stingray)
+- Sublime
+- grip
+- compiler explorer
+- github pages
+- academicpages.github.io
+- viridis R package
+- ipyrun
+- habitica.com
+- rescuetime
+- SourceTree
+- [GitKraken](https://www.gitkraken.com/) +1
+
+
