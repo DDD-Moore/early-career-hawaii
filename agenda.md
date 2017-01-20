@@ -63,6 +63,7 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 
 |Time|Activity|
 |:---|:-----|
+| 08:00 - 09:00 | OpenROV demo (infinity pool)|
 | 08:30 - 09:00 | Breakfast|
 | 09:00 - 09:30 | Revisit agenda|
 | 09:30 - 11:00 | [Birds of a Feather Breakouts](#bof)|
