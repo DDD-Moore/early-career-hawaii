@@ -68,7 +68,7 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 | 09:30 - 11:00 | [Birds of a Feather Breakouts](#bof)|
 | 11:00 - 13:00 | Break |
 | 13:00 - 14:00 | Lunch|
-| 14:00 - 15:30 | [TBD](#tbd)|
+| 14:00 - 15:30 | [Breakout by data type/technique](https://github.com/DDD-Moore/early-career-hawaii/issues/16)|
 | 15:30 - 16:00 | Break|
 | 16:00 - 17:00 | State of data science; final thoughts|
 | 17:00 - 17:30 | Wrap-up with MMI|
