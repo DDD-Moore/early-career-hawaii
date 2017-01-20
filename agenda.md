@@ -66,10 +66,9 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 | 08:30 - 09:00 | Breakfast|
 | 09:00 - 09:30 | Revisit agenda|
 | 09:30 - 11:00 | [Birds of a Feather Breakouts](#bof)|
-| 11:00 - 11:30 | Break|
-| 11:30 - 13:00 | [TBD](#tbd)|
-| 13:00 - 14:30 | Lunch|
-| 14:30 - 15:30 | [TBD](#tbd)|
+| 11:00 - 13:00 | Break |
+| 13:00 - 14:00 | Lunch|
+| 14:00 - 15:30 | [TBD](#tbd)|
 | 15:30 - 16:00 | Break|
 | 16:00 - 17:00 | State of data science; final thoughts|
 | 17:00 - 17:30 | Wrap-up with MMI|
