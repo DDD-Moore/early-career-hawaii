@@ -79,7 +79,15 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 <a name="bof"></a>
 ### Birds of a Feather Breakouts 
 
-We will break into groups based on interest in possible topics of discussion. **See [Issues](https://github.com/DDD-Moore/early-career-hawaii/issues)** to comment on ideas or add your own topic.
+We will break into groups based on interest in possible topics of discussion. **See [Issues](https://github.com/DDD-Moore/early-career-hawaii/issues)** to comment on ideas or add your own topic. BOF topics covered on Friday:
+
+- Open Science culture clash 
+- Mental health & academic life
+- Activism
+- Licensing data
+- Translating work to new fields/projects
+- Software development
+
 
 <a name="beach"></a>
 ### Beachfront Agenda Planning 
