@@ -1,3 +1,6 @@
+_Notes and report-out pics can be found [here](https://github.com/DDD-Moore/early-career-hawaii/tree/master/notes)_
+
+
 ### Group 1: Diversity and inclusion
 
 - What is happening regarding diversity/inclusion in your lab or institution? 
