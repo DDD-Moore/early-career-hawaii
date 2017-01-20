@@ -51,9 +51,9 @@
 - ORCID
 - [libraries.io](https://libraries.io/)
 - [librosa](https://github.com/librosa/librosa)
-- https://travis-ci.org/
+- [travis-ci](https://travis-ci.org/)
 - [ewah compressed bitmaps](https://github.com/lemire/EWAHBoolArray)
-- http://melodi.ee.washington.edu/gmtk/ 
+- [gmtk](http://melodi.ee.washington.edu/gmtk/)
 - [Scikitlearn 0.17 added LDA decomposition](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
 - [Pandas](http://pandas.pydata.org/) (+1)
 - three.gs
