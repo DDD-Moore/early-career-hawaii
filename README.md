@@ -8,6 +8,7 @@ _Waikoloa Beach, Hawaii (Big Island), January 17-21, 2017_
 - [Agenda](https://github.com/DDD-Moore/early-career-hawaii/blob/master/agenda.md) (In progress)
 - [Code of Conduct](https://github.com/DDD-Moore/early-career-hawaii/blob/master/code-of-conduct.md)
 - [Logistics & Reimbursement](https://github.com/DDD-Moore/early-career-hawaii/blob/master/logistics.md) 
+- [Notes](https://github.com/DDD-Moore/early-career-hawaii/tree/master/notes)
 
 ### Basics
 
