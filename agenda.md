@@ -6,6 +6,7 @@
 - No preparation is needed for the symposium
 - The agenda is subject to change based on events at the symposium
 - There will be plenty of breaks and time for small groups/interactions, so please plan to be present (both mentally and physically) for the entirety of the agenda's activities.
+- Slides available [here](https://docs.google.com/presentation/d/1nmNbKwqV8zViCzX-PLTzpLn_G1IJHeIAygIBI8DWkTM/edit?usp=sharing)
 
 ## Tuesday 17 Jan 
 
