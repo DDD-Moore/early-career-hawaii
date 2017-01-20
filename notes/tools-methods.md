@@ -1,10 +1,10 @@
 ### Tools & Methods 
 
 - [Neo 4j](https://neo4j.com/)
-- [Jupyter notebooks + Hub](https://jupyter.org/) +3
+- [Jupyter notebooks + Hub](https://jupyter.org/) (+3)
 - IPython Parallel
-- inviwo.org
-- openspaceproject.com
+- [inviwo.org](http://inviwo.org)
+- [openspaceproject.com](http://openspaceproject.com)
 - [fastutil](http://fastutil.di.unimi.it) for Java
 - [Conda-forge](https://github.com/conda-forge)
 - [Workflowy](https://workflowy.com/)  +1
@@ -22,7 +22,7 @@
 - [remake](https://github.com/richfitz/remake) (r package) 
 - [CyVerse](http://www.cyverse.org/)
 - dynalist
-- [overleaf](https://www.overleaf.com/) +4
+- [overleaf](https://www.overleaf.com/) (+4)
 - [tableau](http://www.tableau.com/)
 - [Vulkan](https://www.khronos.org/vulkan/)
 - data polygamy
@@ -30,17 +30,17 @@
 - [sqlalchemy](http://www.sqlalchemy.org/)
 - [JOSS](http://joss.theoj.org/)
 - Pandoc (compiles LaTex to Word) (+2)
-- paws.wmflabs.org
+- [paws.wmflabs.org](http://paws.wmflabs.org)
 - getorg 
 - [code ocean](https://codeocean.com/)
 - [Julia language](http://julialang.org/)
 - [discourse](https://www.discourse.org/)
 - [latexit](https://pierre.chachatelier.fr/latexit/latexit-home.php)
 - [pycortex](https://github.com/gallantlab/pycortex)
-- [Hemmingway App]([)http://www.hemingwayapp.com/)
+- [Hemmingway App](http://www.hemingwayapp.com/)
 - [gdcp](https://github.com/ctberthiaume/gdcp) - command line for accessing Google Drive (+1)
-- oadoi.org
-- short doi http://shortdoi.org/ 
+- [oadoi.org](http://oadoi.org)
+- [shortdoi.org](http://shortdoi.org/)
 - sharelatex
 - wholetail.org
 - [unicodeit](http://www.unicodeit.net/)
@@ -49,13 +49,13 @@
 - paperpile
 - [journal of brief ideas](http://beta.briefideas.org/)
 - ORCID
-- https://libraries.io/
+- [libraries.io](https://libraries.io/)
 - [librosa](https://github.com/librosa/librosa)
 - https://travis-ci.org/
 - [ewah compressed bitmaps](https://github.com/lemire/EWAHBoolArray)
 - http://melodi.ee.washington.edu/gmtk/ 
-- Scikitlearn 0.17 added LDA decomposition - http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html
-- [Pandas](http://pandas.pydata.org/) +1
+- [Scikitlearn 0.17 added LDA decomposition](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
+- [Pandas](http://pandas.pydata.org/) (+1)
 - three.gs
 - reveal.js
 - jupyter sql magic
@@ -70,9 +70,9 @@
 - academicpages.github.io
 - viridis R package
 - ipyrun
-- habitica.com
+- [habitica.com](http://habitica.com)
 - rescuetime
 - SourceTree
-- [GitKraken](https://www.gitkraken.com/) +1
+- [GitKraken](https://www.gitkraken.com/) (+1)
 
 
