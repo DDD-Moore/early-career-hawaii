@@ -1,6 +1,4 @@
-## Agenda (In progress)
-
-_**We want to hear your ideas for new topics or items already on the agenda. See [Issues](https://github.com/DDD-Moore/early-career-hawaii/issues) to comment or add your own topic.**_
+## Agenda
 
 ### Notes
 
