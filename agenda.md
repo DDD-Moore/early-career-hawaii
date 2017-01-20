@@ -50,8 +50,8 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 | 14:15 - 15:15 | [Open Science Panel](#panel)|
 | 15:15 - 15:30 | [ORCID](http://orcid.org) Activity|
 | 15:30 - 16:00 | Break |
-| 16:00 - 16:15 | [Birds of a Feather](#bof) Planning|
-| 16:15 - 17:30 | [Birds of a Feather Breakouts](#bof)|
+| 16:00 - 16:15 | Birds of a Feather Planning|
+| 16:15 - 17:30 | [DDD-MMI Birds of a Feather Breakouts](https://github.com/DDD-Moore/early-career-hawaii/blob/master/bof-topics.md)|
 | 17:30 - 19:00 | Free time |
 | 19:00 - 20:30 | Dinner|
 
@@ -64,7 +64,7 @@ _Location: Naupaka Salon 4 & Naupaka Lanai_
 | 08:00 - 09:00 | OpenROV demo (infinity pool)|
 | 08:30 - 09:00 | Breakfast|
 | 09:00 - 09:30 | Revisit agenda|
-| 09:30 - 11:00 | [Birds of a Feather Breakouts](#bof)|
+| 09:30 - 11:00 | [DDD Birds of a Feather Breakouts](#bof)|
 | 11:00 - 13:00 | Break |
 | 13:00 - 14:00 | Lunch|
 | 14:00 - 15:30 | [Breakout by data type/technique](https://github.com/DDD-Moore/early-career-hawaii/issues/16)|
