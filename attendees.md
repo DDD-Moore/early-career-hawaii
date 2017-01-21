@@ -1,6 +1,6 @@
 ## Confirmed Attendees
 
-1. Alexander Bock, New York University, [LinkedIn](https://www.linkedin.com/in/alexanderbock1), [Twitter](https://twitter.com/AlexanderBock)
+1. [Alexander Bock](https://github.com/alexanderbock), New York University, [Email](mailto://alexander.bock@nyu.edu), [LinkedIn](https://www.linkedin.com/in/alexanderbock1), [Twitter](https://twitter.com/AlexanderBock)
 1. [Alexandra	Paxton](http://www.alexandrapaxton.com), UC Berkeley
 1. [Andreas Mueller](http://amueller.io), New York University
 1. [Arvind Satyanarayan](http://arvindsatya.com), Stanford University
