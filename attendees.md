@@ -6,7 +6,7 @@
 1. [Arvind Satyanarayan](http://arvindsatya.com), Stanford University
 1. [Bernease Herman](http://escience.washington.edu/people/bernease-herman/), University of Washington
 1. [Brian McFee](https://bmcfee.github.io), New York University
-1. Bryna Hazelton, University of Washington
+1. Bryna Hazelton, University of Washington, [email](brynah@phys.washington.edu)
 1. [Carly Strasser](http://carlystrasser.net), Moore Foundation
 1. [Chris Mentzel](https://www.moore.org/people-detail?personUrl=chrism), Moore Foundation
 1. [Daniel Himmelstein](http://dhimmel.com), University of Pennsylvania
