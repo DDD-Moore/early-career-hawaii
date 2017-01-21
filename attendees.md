@@ -17,7 +17,7 @@
 1. [Eurika	Kaiser](http://eurikakaiser.com), University of Washington
 1. [Fatma Deniz](http://fatmanet.com), UC Berkeley
 1. [Felix Reidl](http://tcs.rwth-aachen.de/~reidl/), North Carolina State University
-1. [Francois Michonneau](http://francoismichonneau.net), University of Florida
+1. [Francois Michonneau](http://francoismichonneau.net), University of Florida, [@fmic_](https://twitter.com/fmic_) (twitter) and [@fmichonneau](https://github.com/fmichonneau) (GitHub).
 1. [Gao Wang](http://home.uchicago.edu/gaow), University of Chicago
 1. [Garret Christensen](http://www.ocf.berkeley.edu/~garret), UC Berkeley
 1. [Harish Doraiswamy](http://www.harishd.com), New York University
