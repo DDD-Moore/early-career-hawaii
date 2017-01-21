@@ -48,7 +48,7 @@
 1. [Stefan Karpinski](http://karpinski.org/), Julia Computing
 1. [Stuart Geiger](http://stuartgeiger.com), UC Berkeley
 1. [Sunandan	Chakraborty](http://cs.nyu.edu/~sunandan/), New York University
-1. Tamer Ahmed, UC Davis
+1. Tamer Ahmed, UC Davis. eMail: drtamermansour@gmail.com. Phone: 6512026357
 1. Theo Rekatsinas, Stanford University
 1. Valentina Staneva, University of Washington
 1. [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
