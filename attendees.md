@@ -43,7 +43,7 @@
 1. [Nick Adams](http://bids.berkeley.edu/people/nick-adams), UC Berkeley
 1. [Nicolas Pegard](http://www.nicolaspegard.com), UC Berkeley
 1. [Rahul Biswas](http://github.com/rbiswas4), University of Washington
-1. [Rayna Harris](http://raynamharris.github.io/), UT Austin
+1. [Rayna Harris](http://raynamharris.github.io/), UT Austin, [Email](rayna.harris@utexas.edu), [LinkedIn](https://www.linkedin.com/in/rayna-harris-484802ba), [Twitter](https://twitter.com/raynamharris)
 1. [Roy Lederman](http://roy.lederman.name), Princeton University
 1. [Stefan Karpinski](http://karpinski.org/), Julia Computing
 1. [Stuart Geiger](http://stuartgeiger.com), UC Berkeley
