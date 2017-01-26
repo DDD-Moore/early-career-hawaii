@@ -2,7 +2,6 @@
 
 1. [Alexander Bock](https://github.com/alexanderbock), New York University, [Email](mailto://alexander.bock@nyu.edu), [LinkedIn](https://www.linkedin.com/in/alexanderbock1), [Twitter](https://twitter.com/AlexanderBock)
 1. [Alexandra	Paxton](http://www.alexandrapaxton.com), UC Berkeley
-1. [Andreas Mueller](http://amueller.io), New York University
 1. [Arvind Satyanarayan](http://arvindsatya.com), Stanford University
 1. [Bernease Herman](http://escience.washington.edu/people/bernease-herman/), University of Washington
 1. [Brian McFee](https://bmcfee.github.io), New York University
