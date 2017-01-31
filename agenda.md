@@ -52,7 +52,7 @@ _Overlap day with Marine Microbiology Initiative Early Career researchers_
 | 15:15 - 15:30 | [ORCID](http://orcid.org) Activity|
 | 15:30 - 16:00 | Break |
 | 16:00 - 16:15 | Birds of a Feather Planning|
-| 16:15 - 17:30 | [DDD-MMI Birds of a Feather Breakouts](https://github.com/DDD-Moore/early-career-hawaii/blob/master/bof-topics.md)|
+| 16:15 - 17:30 | [DDD-MMI Birds of a Feather Breakouts](https://github.com/DDD-Moore/early-career-hawaii/blob/master/bof-topics.md) ([note](https://github.com/DDD-Moore/early-career-hawaii/blob/master/notes/FriBOF-notes.md)|
 | 17:30 - 19:00 | Free time |
 | 19:00 - 20:30 | Dinner|
 
@@ -88,6 +88,7 @@ We will break into groups based on interest in possible topics of discussion. **
 - Translating work to new fields/projects
 - Software development
 
+Notes available [here](https://github.com/DDD-Moore/early-career-hawaii/blob/master/notes/FriBOF-notes.md)
 
 <a name="beach"></a>
 ### Beachfront Agenda Planning 
