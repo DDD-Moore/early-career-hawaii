@@ -10,7 +10,7 @@
 
 **Misc software and projects**
 
-- [Neo 4j](https://neo4j.com/): graph database management system 
+- [Neo4j](https://neo4j.com/): graph database management system 
 - [inviwo](http://www.inviwo.org/): software framework for rapid visualization prototyping. It is written in C++, exploits modern graphics hardware, and is freely available under the BSD License
 - [OpenSpace Project](http://openspaceproject.com): open source interactive data visualization software designed to visualize the entire known universe and portray our ongoing efforts to investigate the cosmos
 - [Gephi](https://gephi.org/): open graph visualization and exploration platform
@@ -65,7 +65,7 @@
 
 - [ORCID](http://orcid.org): Open Researcher and Contributor ID. Provides a persistent digital identifier that distinguishes you from every other researcher and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between you and your professional activities ensuring that your work is recognized
 - [oadoi.org](http://oadoi.org): enter a DOI for an article. If there's an open access version of the article, the oaDOI URL will send you there, instead of the paywalled article landing page.
-- [shortdoi.org](http://shortdoi.org/): creates shortened DOI® names, of the form 10/abcde, as aliases for existing DOI names, which are often very long strings.
+- [shortdoi.org](http://shortdoi.org/): creates shortened DOI names, of the form 10/abcde, as aliases for existing DOI names, which are often very long strings.
 
 **Journals**
 
