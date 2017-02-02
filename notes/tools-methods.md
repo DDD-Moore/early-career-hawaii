@@ -44,6 +44,7 @@
 - [Viridis R package](https://github.com/sjmgarnier/viridis): Implementation of the Matplolib 'viridis' color map in R
 - [remake](https://github.com/richfitz/remake) (r package): Make-like declarative workflows in R
 - [EWAH compressed bitmaps](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++
+- [ Data Retriever](https://github.com/weecology/retriever): The Data Retriever automates the tasks of finding, downloading, and cleaning up publicly available data files, and stores these datasets in a local database
 
 **Interacting with GitHub**
 
