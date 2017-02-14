@@ -100,6 +100,7 @@
 - [Tableau](http://www.tableau.com/): queries relational databases, OLAP cubes, cloud databases, and spreadsheets and then generates a number of graph types
 - [Omnigraffle](https://www.omnigroup.com/omnigraffle/): diagramming and digital illustration application for Mac, iPhone, iPad and iPod touch. It allows users to convey ideas, organize thoughts visually, and communicate these thoughts and ideas to the world.
 - [Docker](http://docker.com): open-source project that automates the deployment of applications inside software containers
+- [ipyrun](https://hub.docker.com/r/srhopkins/ipyrun/): Docker image for an ipython notebook running on pyrun
 - [Paperpile](https://paperpile.com/): web-based commercial reference management software, with special emphasis on integration with Google Docs and Google Scholar
 
 **Can't find**
@@ -107,5 +108,4 @@
 - [paws.wmflabs.org](http://paws.wmflabs.org)
 - getorg 
 - grip
-- ipyrun
 
